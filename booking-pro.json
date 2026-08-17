@@ -677,20 +677,6 @@
    "faseMes": null
   },
   {
-   "id": "o2",
-   "vend": "v14",
-   "cliente": "Quimetal",
-   "cot": "",
-   "detalle": "8 medidores de potencia Siemens",
-   "marca": "se",
-   "monto": 3.7,
-   "fecha": "2026-08-21",
-   "status": "neg",
-   "stock": "bod",
-   "fase": null,
-   "faseMes": null
-  },
-  {
    "id": "o3",
    "vend": "v14",
    "cliente": "Ball",
@@ -3803,5 +3789,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:06:32.281Z"
+ "updatedAt": "2026-08-17T02:10:25.236Z"
 }
