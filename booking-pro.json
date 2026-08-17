@@ -160,7 +160,7 @@
   {
    "id": "v14",
    "name": "Javier Rodríguez",
-   "email": "",
+   "email": "jrodriguez@emeltec.cl",
    "metaAnual": 605,
    "metaMensual": 50,
    "anterior": 6.84,
@@ -3755,5 +3755,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:05:31.628Z"
+ "updatedAt": "2026-08-17T02:05:32.852Z"
 }
