@@ -375,7 +375,7 @@
   {
    "id": "v08",
    "name": "Camila Cid",
-   "email": "",
+   "email": "ccid@emeltec.cl",
    "metaAnual": 1100.1,
    "metaMensual": 91.67,
    "anterior": 649.7,
@@ -3755,5 +3755,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:05:53.849Z"
+ "updatedAt": "2026-08-17T02:05:54.916Z"
 }
