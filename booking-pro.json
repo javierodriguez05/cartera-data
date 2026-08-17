@@ -2,18 +2,6 @@
  "version": 3,
  "vendors": [
   {
-   "id": "v9",
-   "name": "P Mellico",
-   "email": "pmellico@emeltec.cl",
-   "metaAnual": 350,
-   "metaMensual": 50,
-   "anterior": 315.89,
-   "winRate": 12,
-   "desv": -30,
-   "photo": null,
-   "metasMarca": {}
-  },
-  {
    "id": "v10",
    "name": "Pedro Mellico",
    "email": "pmellico@emeltec.cl",
@@ -3663,5 +3651,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:27:55.213Z"
+ "updatedAt": "2026-08-17T02:27:58.350Z"
 }
