@@ -195,15 +195,17 @@
   },
   {
    "id": "v14",
-   "name": "Javier Rodríguez",
-   "email": "jrodriguez@emeltec.cl",
-   "metaAnual": 605,
-   "metaMensual": 50,
-   "anterior": 6.84,
+   "name": "Franco Coronado",
+   "email": "fcoronado@emeltec.cl",
+   "metaAnual": 660,
+   "metaMensual": 55,
+   "anterior": 1.43,
    "winRate": 14,
-   "desv": -30,
+   "desv": -40,
    "photo": null,
-   "metasMarca": {}
+   "metasMarca": {
+    "si": 55
+   }
   },
   {
    "id": "v15",
@@ -3791,5 +3793,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:06:07.405Z"
+ "updatedAt": "2026-08-17T02:06:08.517Z"
 }
