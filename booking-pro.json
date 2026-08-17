@@ -646,7 +646,7 @@
   {
    "id": "v19",
    "name": "Juan Pablo Estay",
-   "email": "",
+   "email": "jpestay@emeltec.cl",
    "metaAnual": 165,
    "metaMensual": 13.75,
    "anterior": 63.25,
@@ -3815,5 +3815,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:06:17.543Z"
+ "updatedAt": "2026-08-17T02:06:18.588Z"
 }
