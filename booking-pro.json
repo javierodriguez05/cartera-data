@@ -2,18 +2,6 @@
  "version": 3,
  "vendors": [
   {
-   "id": "v5",
-   "name": "P Herrera",
-   "email": "pherrera@emeltec.cl",
-   "metaAnual": 600,
-   "metaMensual": 50,
-   "anterior": 0.68,
-   "winRate": 0,
-   "desv": -30,
-   "photo": null,
-   "metasMarca": {}
-  },
-  {
    "id": "v6",
    "name": "J Gatica",
    "email": "jgatica@emeltec.cl",
@@ -3711,5 +3699,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:27:31.924Z"
+ "updatedAt": "2026-08-17T02:27:35.064Z"
 }
