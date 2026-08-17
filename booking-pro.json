@@ -266,7 +266,7 @@
   {
    "id": "v03",
    "name": "Fidel Salinas",
-   "email": "",
+   "email": "fsalinas@emeltec.cl",
    "metaAnual": 605,
    "metaMensual": 50.41,
    "anterior": 0.68,
@@ -3755,5 +3755,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:05:39.371Z"
+ "updatedAt": "2026-08-17T02:05:40.492Z"
 }
