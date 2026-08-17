@@ -196,7 +196,7 @@
   {
    "id": "v17",
    "name": "L Villegas",
-   "email": "",
+   "email": "lvillegas@emeltec.cl",
    "metaAnual": 700,
    "metaMensual": 27,
    "anterior": 279.3,
@@ -3755,5 +3755,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:05:35.057Z"
+ "updatedAt": "2026-08-17T02:05:36.198Z"
 }
