@@ -2,18 +2,6 @@
  "version": 3,
  "vendors": [
   {
-   "id": "v1",
-   "name": "M Oviedo",
-   "email": "moviedo@emeltec.cl",
-   "metaAnual": 800,
-   "metaMensual": 46,
-   "anterior": 0,
-   "winRate": 22,
-   "desv": -30,
-   "photo": null,
-   "metasMarca": {}
-  },
-  {
    "id": "v2",
    "name": "E Castro",
    "email": "ecastro@emeltec.cl",
@@ -3815,5 +3803,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:06:20.397Z"
+ "updatedAt": "2026-08-17T02:06:32.281Z"
 }
