@@ -16,7 +16,7 @@
   {
    "id": "v2",
    "name": "E Castro",
-   "email": "",
+   "email": "ecastro@emeltec.cl",
    "metaAnual": 1100,
    "metaMensual": 78,
    "anterior": 699.38,
@@ -3755,5 +3755,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:05:13.845Z"
+ "updatedAt": "2026-08-17T02:05:14.899Z"
 }
