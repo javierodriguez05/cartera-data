@@ -172,7 +172,7 @@
   {
    "id": "v15",
    "name": "N Santana (E Commerce)",
-   "email": "",
+   "email": "nsantana@emeltec.cl",
    "metaAnual": 350,
    "metaMensual": 41,
    "anterior": 138.08,
@@ -3755,5 +3755,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:05:32.852Z"
+ "updatedAt": "2026-08-17T02:05:34.079Z"
 }
