@@ -76,7 +76,7 @@
   {
    "id": "v7",
    "name": "C Cid",
-   "email": "",
+   "email": "ccid@emeltec.cl",
    "metaAnual": 300,
    "metaMensual": 92,
    "anterior": 649.7,
@@ -3755,5 +3755,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:05:19.233Z"
+ "updatedAt": "2026-08-17T02:05:20.311Z"
 }
