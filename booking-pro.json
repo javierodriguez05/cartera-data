@@ -2,18 +2,6 @@
  "version": 3,
  "vendors": [
   {
-   "id": "v7",
-   "name": "C Cid",
-   "email": "ccid@emeltec.cl",
-   "metaAnual": 300,
-   "metaMensual": 92,
-   "anterior": 649.7,
-   "winRate": 15,
-   "desv": -30,
-   "photo": null,
-   "metasMarca": {}
-  },
-  {
    "id": "v8",
    "name": "F Diaz",
    "email": "fdiaz@emeltec.cl",
@@ -3687,5 +3675,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:27:48.632Z"
+ "updatedAt": "2026-08-17T02:27:51.808Z"
 }
