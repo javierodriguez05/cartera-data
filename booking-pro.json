@@ -2,18 +2,6 @@
  "version": 3,
  "vendors": [
   {
-   "id": "v6",
-   "name": "J Gatica",
-   "email": "jgatica@emeltec.cl",
-   "metaAnual": 200,
-   "metaMensual": 46,
-   "anterior": 47.76,
-   "winRate": 14,
-   "desv": -30,
-   "photo": null,
-   "metasMarca": {}
-  },
-  {
    "id": "v7",
    "name": "C Cid",
    "email": "ccid@emeltec.cl",
@@ -3699,5 +3687,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:27:35.064Z"
+ "updatedAt": "2026-08-17T02:27:48.632Z"
 }
