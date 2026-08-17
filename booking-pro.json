@@ -247,15 +247,19 @@
   },
   {
    "id": "v17",
-   "name": "L Villegas",
-   "email": "lvillegas@emeltec.cl",
-   "metaAnual": 700,
-   "metaMensual": 27,
-   "anterior": 279.3,
-   "winRate": 30,
-   "desv": -30,
+   "name": "Patricio Arroyo",
+   "email": "parroyo@emeltec.cl",
+   "metaAnual": 880,
+   "metaMensual": 73.33,
+   "anterior": 962.16,
+   "winRate": 14,
+   "desv": -40,
    "photo": null,
-   "metasMarca": {}
+   "metasMarca": {
+    "al": 14.67,
+    "so": 48.89,
+    "ot": 9.78
+   }
   },
   {
    "id": "v18",
@@ -3807,5 +3811,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:06:12.030Z"
+ "updatedAt": "2026-08-17T02:06:13.086Z"
 }
