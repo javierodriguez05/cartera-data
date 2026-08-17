@@ -184,7 +184,7 @@
   {
    "id": "v16",
    "name": "P Arroyo",
-   "email": "",
+   "email": "parroyo@emeltec.cl",
    "metaAnual": 500,
    "metaMensual": 73,
    "anterior": 962.16,
@@ -3755,5 +3755,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:05:34.079Z"
+ "updatedAt": "2026-08-17T02:05:35.057Z"
 }
