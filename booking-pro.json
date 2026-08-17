@@ -331,7 +331,7 @@
   {
    "id": "v06",
    "name": "Pia Herrera",
-   "email": "",
+   "email": "pherrera@emeltec.cl",
    "metaAnual": 605,
    "metaMensual": 50.41,
    "anterior": 0.68,
@@ -3755,5 +3755,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:05:54.916Z"
+ "updatedAt": "2026-08-17T02:05:55.936Z"
 }
