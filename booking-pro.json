@@ -100,7 +100,7 @@
   {
    "id": "v9",
    "name": "P Mellico",
-   "email": "",
+   "email": "pmellico@emeltec.cl",
    "metaAnual": 350,
    "metaMensual": 50,
    "anterior": 315.89,
@@ -3755,5 +3755,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:05:21.361Z"
+ "updatedAt": "2026-08-17T02:05:22.385Z"
 }
