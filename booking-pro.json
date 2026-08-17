@@ -154,15 +154,25 @@
   },
   {
    "id": "v12",
-   "name": "R Prado",
-   "email": "",
-   "metaAnual": 400,
-   "metaMensual": 46,
-   "anterior": 155.42,
-   "winRate": 15,
-   "desv": -30,
+   "name": "Nicolas Cuevas",
+   "email": "ncuevas@emeltec.cl",
+   "metaAnual": 880,
+   "metaMensual": 73.33,
+   "anterior": 6.9,
+   "winRate": 14,
+   "desv": -40,
    "photo": null,
-   "metasMarca": {}
+   "metasMarca": {
+    "al": 26.86,
+    "si": 14.82,
+    "se": 1.85,
+    "cs": 1.85,
+    "fm": 2.77,
+    "do": 1.85,
+    "sv": 3.89,
+    "so": 10.18,
+    "ot": 9.26
+   }
   },
   {
    "id": "v13",
@@ -3774,5 +3784,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:06:01.914Z"
+ "updatedAt": "2026-08-17T02:06:03.015Z"
 }
