@@ -220,7 +220,7 @@
   {
    "id": "v01",
    "name": "Marifer Oviedo",
-   "email": "",
+   "email": "moviedo@emeltec.cl",
    "metaAnual": 549.7,
    "metaMensual": 45.81,
    "anterior": 0,
@@ -3755,5 +3755,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:05:37.234Z"
+ "updatedAt": "2026-08-17T02:05:38.230Z"
 }
