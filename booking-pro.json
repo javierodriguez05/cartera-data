@@ -4,7 +4,7 @@
   {
    "id": "v1",
    "name": "M Oviedo",
-   "email": "",
+   "email": "moviedo@emeltec.cl",
    "metaAnual": 800,
    "metaMensual": 46,
    "anterior": 0,
@@ -3755,5 +3755,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:04:04.606Z"
+ "updatedAt": "2026-08-17T02:05:13.845Z"
 }
