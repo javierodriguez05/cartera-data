@@ -28,7 +28,7 @@
   {
    "id": "v3",
    "name": "M Vera",
-   "email": "",
+   "email": "mvera@emeltec.cl",
    "metaAnual": 700,
    "metaMensual": 73,
    "anterior": 849.6,
@@ -3755,5 +3755,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:05:14.899Z"
+ "updatedAt": "2026-08-17T02:05:15.936Z"
 }
