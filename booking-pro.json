@@ -3753,9 +3753,7 @@
  ],
  "config": {
   "desvProy": 30,
-  "desvMes": {
-   "2026-08": 30
-  }
+  "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:04:03.520Z"
+ "updatedAt": "2026-08-17T02:04:04.606Z"
 }
