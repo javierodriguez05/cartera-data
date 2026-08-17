@@ -111,15 +111,24 @@
   },
   {
    "id": "v10",
-   "name": "K Contreras",
-   "email": "kcontreras@emeltec.cl",
-   "metaAnual": 200,
-   "metaMensual": 41,
-   "anterior": 156.67,
-   "winRate": 15,
-   "desv": -30,
+   "name": "Pedro Mellico",
+   "email": "pmellico@emeltec.cl",
+   "metaAnual": 605,
+   "metaMensual": 50.41,
+   "anterior": 315.89,
+   "winRate": 14,
+   "desv": -40,
    "photo": null,
-   "metasMarca": {}
+   "metasMarca": {
+    "al": 10.73,
+    "si": 13.08,
+    "se": 1.87,
+    "cs": 1.87,
+    "do": 1.87,
+    "sv": 4.2,
+    "so": 7.47,
+    "ot": 9.33
+   }
   },
   {
    "id": "v11",
@@ -3755,5 +3764,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:05:59.754Z"
+ "updatedAt": "2026-08-17T02:06:00.871Z"
 }
