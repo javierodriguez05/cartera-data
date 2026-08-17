@@ -88,7 +88,7 @@
   {
    "id": "v8",
    "name": "F Diaz",
-   "email": "",
+   "email": "fdiaz@emeltec.cl",
    "metaAnual": 1400,
    "metaMensual": 165,
    "anterior": 665.32,
@@ -3755,5 +3755,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:05:20.311Z"
+ "updatedAt": "2026-08-17T02:05:21.361Z"
 }
