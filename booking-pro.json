@@ -310,7 +310,7 @@
   {
    "id": "v05",
    "name": "Camilo Varela",
-   "email": "",
+   "email": "cvarela@emeltec.cl",
    "metaAnual": 660,
    "metaMensual": 55,
    "anterior": 247.45,
@@ -3755,5 +3755,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:05:41.517Z"
+ "updatedAt": "2026-08-17T02:05:42.524Z"
 }
