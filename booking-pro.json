@@ -52,7 +52,7 @@
   {
    "id": "v5",
    "name": "P Herrera",
-   "email": "",
+   "email": "pherrera@emeltec.cl",
    "metaAnual": 600,
    "metaMensual": 50,
    "anterior": 0.68,
@@ -3755,5 +3755,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:05:16.948Z"
+ "updatedAt": "2026-08-17T02:05:18.085Z"
 }
