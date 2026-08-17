@@ -288,7 +288,7 @@
   {
    "id": "v04",
    "name": "Mabel Vera",
-   "email": "",
+   "email": "mvera@emeltec.cl",
    "metaAnual": 880.1,
    "metaMensual": 73.34,
    "anterior": 849.6,
@@ -3755,5 +3755,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:05:40.492Z"
+ "updatedAt": "2026-08-17T02:05:41.517Z"
 }
