@@ -663,20 +663,6 @@
    "faseMes": "2026-07"
   },
   {
-   "id": "o1",
-   "vend": "v14",
-   "cliente": "Quimetal",
-   "cot": "",
-   "detalle": "Caudalímetros de vapor y aire comprimido",
-   "marca": "fm",
-   "monto": 4.5,
-   "fecha": "2026-08-14",
-   "status": "conf",
-   "stock": "no",
-   "fase": null,
-   "faseMes": null
-  },
-  {
    "id": "o3",
    "vend": "v14",
    "cliente": "Ball",
@@ -3789,5 +3775,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:10:25.236Z"
+ "updatedAt": "2026-08-17T02:10:29.074Z"
 }
