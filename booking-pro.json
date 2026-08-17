@@ -124,7 +124,7 @@
   {
    "id": "v11",
    "name": "N Cuevas",
-   "email": "",
+   "email": "ncuevas@emeltec.cl",
    "metaAnual": 300,
    "metaMensual": 73,
    "anterior": 6.9,
@@ -3755,5 +3755,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:05:23.534Z"
+ "updatedAt": "2026-08-17T02:05:24.543Z"
 }
