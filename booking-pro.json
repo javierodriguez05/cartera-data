@@ -176,15 +176,22 @@
   },
   {
    "id": "v13",
-   "name": "F Coronado",
-   "email": "fcoronado@emeltec.cl",
-   "metaAnual": 660,
-   "metaMensual": 55,
-   "anterior": 1.43,
-   "winRate": 0,
-   "desv": -30,
+   "name": "Rebeca Prado",
+   "email": "rprado@emeltec.cl",
+   "metaAnual": 550,
+   "metaMensual": 45.83,
+   "anterior": 155.42,
+   "winRate": 14,
+   "desv": -40,
    "photo": null,
-   "metasMarca": {}
+   "metasMarca": {
+    "al": 2.08,
+    "si": 2.61,
+    "fm": 26.04,
+    "ka": 3.67,
+    "sv": 0.53,
+    "ot": 10.91
+   }
   },
   {
    "id": "v14",
@@ -3784,5 +3791,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:06:03.015Z"
+ "updatedAt": "2026-08-17T02:06:04.059Z"
 }
