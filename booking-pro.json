@@ -148,7 +148,7 @@
   {
    "id": "v13",
    "name": "F Coronado",
-   "email": "",
+   "email": "fcoronado@emeltec.cl",
    "metaAnual": 660,
    "metaMensual": 55,
    "anterior": 1.43,
@@ -3755,5 +3755,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:05:30.798Z"
+ "updatedAt": "2026-08-17T02:05:31.628Z"
 }
