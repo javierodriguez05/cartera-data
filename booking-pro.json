@@ -208,7 +208,7 @@
   {
    "id": "v18",
    "name": "JP Estay",
-   "email": "",
+   "email": "jestay@emeltec.cl",
    "metaAnual": 350,
    "metaMensual": 14,
    "anterior": 63.25,
@@ -3755,5 +3755,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:05:36.198Z"
+ "updatedAt": "2026-08-17T02:05:37.234Z"
 }
