@@ -397,7 +397,7 @@
   {
    "id": "v09",
    "name": "Francisco Diaz",
-   "email": "",
+   "email": "fdiaz@emeltec.cl",
    "metaAnual": 1979.9,
    "metaMensual": 164.99,
    "anterior": 665.32,
@@ -3755,5 +3755,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:05:57.892Z"
+ "updatedAt": "2026-08-17T02:05:59.010Z"
 }
