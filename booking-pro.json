@@ -263,15 +263,19 @@
   },
   {
    "id": "v18",
-   "name": "JP Estay",
-   "email": "jestay@emeltec.cl",
-   "metaAnual": 350,
-   "metaMensual": 14,
-   "anterior": 63.25,
-   "winRate": 30,
-   "desv": -30,
+   "name": "Luis Villegas",
+   "email": "lvillegas@emeltec.cl",
+   "metaAnual": 330,
+   "metaMensual": 27.5,
+   "anterior": 279.3,
+   "winRate": 14,
+   "desv": -40,
    "photo": null,
-   "metasMarca": {}
+   "metasMarca": {
+    "al": 18.33,
+    "sv": 1.38,
+    "ot": 7.79
+   }
   },
   {
    "id": "v01",
@@ -3811,5 +3815,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:06:14.319Z"
+ "updatedAt": "2026-08-17T02:06:15.457Z"
 }
