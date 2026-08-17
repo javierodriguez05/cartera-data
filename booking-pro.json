@@ -3361,7 +3361,7 @@
    "marca": "cs",
    "monto": 2.2,
    "fecha": "2026-08-29",
-   "status": "neg",
+   "status": "conf",
    "stock": "no",
    "fase": null,
    "faseMes": null
@@ -3651,5 +3651,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:30:09.326Z"
+ "updatedAt": "2026-08-17T02:30:17.225Z"
 }
