@@ -209,15 +209,25 @@
   },
   {
    "id": "v15",
-   "name": "N Santana (E Commerce)",
-   "email": "nsantana@emeltec.cl",
-   "metaAnual": 350,
-   "metaMensual": 41,
-   "anterior": 138.08,
-   "winRate": 18,
-   "desv": -30,
+   "name": "Javier Rodriguez",
+   "email": "jrodriguez@emeltec.cl",
+   "metaAnual": 605,
+   "metaMensual": 50.41,
+   "anterior": 6.84,
+   "winRate": 14,
+   "desv": -40,
    "photo": null,
-   "metasMarca": {}
+   "metasMarca": {
+    "al": 5.5,
+    "si": 13.75,
+    "se": 4.58,
+    "cs": 13.75,
+    "fm": 1.83,
+    "do": 1.83,
+    "sv": 4.58,
+    "so": 1.83,
+    "ot": 2.75
+   }
   },
   {
    "id": "v16",
@@ -3793,5 +3803,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:06:08.517Z"
+ "updatedAt": "2026-08-17T02:06:09.815Z"
 }
