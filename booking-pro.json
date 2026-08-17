@@ -3347,7 +3347,7 @@
    "marca": "fm",
    "monto": 40,
    "fecha": "2026-08-29",
-   "status": "neg",
+   "status": "oc",
    "stock": "no",
    "fase": null,
    "faseMes": null
@@ -3651,5 +3651,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:29:50.639Z"
+ "updatedAt": "2026-08-17T02:30:09.326Z"
 }
