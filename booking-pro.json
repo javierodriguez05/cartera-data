@@ -2,18 +2,6 @@
  "version": 3,
  "vendors": [
   {
-   "id": "v2",
-   "name": "E Castro",
-   "email": "ecastro@emeltec.cl",
-   "metaAnual": 1100,
-   "metaMensual": 78,
-   "anterior": 699.38,
-   "winRate": 34,
-   "desv": -30,
-   "photo": null,
-   "metasMarca": {}
-  },
-  {
    "id": "v3",
    "name": "M Vera",
    "email": "mvera@emeltec.cl",
@@ -3747,5 +3735,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:10:37.125Z"
+ "updatedAt": "2026-08-17T02:27:24.871Z"
 }
