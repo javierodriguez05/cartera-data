@@ -353,7 +353,7 @@
   {
    "id": "v07",
    "name": "Javiera Gatica",
-   "email": "",
+   "email": "jgatica@emeltec.cl",
    "metaAnual": 549.9,
    "metaMensual": 45.82,
    "anterior": 47.76,
@@ -3755,5 +3755,5 @@
   "desvProy": 30,
   "desvMes": {}
  },
- "updatedAt": "2026-08-17T02:05:55.936Z"
+ "updatedAt": "2026-08-17T02:05:56.915Z"
 }
